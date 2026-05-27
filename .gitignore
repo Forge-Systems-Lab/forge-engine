@@ -1,6 +1,6 @@
-# Compiled Binaries
-**/forge-broker
-**/forge-cli
+# Targeted compiled binary locations
+forge-broker/forge-broker
+forge-cli/forge-cli
 
 # Object Files
 **/*.o
