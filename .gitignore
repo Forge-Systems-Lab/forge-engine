@@ -1,0 +1,9 @@
+# Compiled Binaries
+**/forge-broker
+**/forge-cli
+
+# Object Files
+**/*.o
+
+# Telemetry Logs
+*.log
